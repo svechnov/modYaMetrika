@@ -1,7 +1,7 @@
 <?php
 // For debug
-ini_set('display_errors', 1);
-ini_set('error_reporting', -1);
+ ini_set('display_errors', 1);
+ ini_set('error_reporting', -1);
 
 // require_once dirname(dirname(dirname(dirname(__FILE__)))) . '/config.core.php';
 if (file_exists(dirname(dirname(dirname(dirname(__FILE__)))) . '/config.core.php')) {
