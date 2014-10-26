@@ -47,7 +47,7 @@ define('BUILD_PLUGIN_UPDATE', true);
 
 define('BUILD_CHUNK_STATIC', false);
 define('BUILD_SNIPPET_STATIC', false);
-define('BUILD_PLUGIN_STATIC', false);
+define('BUILD_PLUGIN_STATIC', true);
 
 $BUILD_RESOLVERS = array(
 	// 'tables',
